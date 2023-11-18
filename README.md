@@ -17,5 +17,7 @@ Tools used to create the project:
 	PgAdmin4**
 
 Schema- Music Store Database:
+
 ![image](https://github.com/kajalgoyal707/Analysis-of-Digital-Music-Store/assets/79365011/aa48c55b-e7b1-4622-b8a0-5c5a3c8cb12a)
+
 Music Store Database attached in the repository.
