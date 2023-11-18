@@ -13,8 +13,8 @@ This project is to examine and analyze the dataset with SQL and help the music s
 8. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
 
 Tools used to create the project:
--> Postfresql
--> Pgadmin4
+	Postgre SQL
+	PgaAmin4
 
 Schema- Music Store Database:
 ![image](https://github.com/kajalgoyal707/Analysis-of-Digital-Music-Store/assets/79365011/aa48c55b-e7b1-4622-b8a0-5c5a3c8cb12a)
