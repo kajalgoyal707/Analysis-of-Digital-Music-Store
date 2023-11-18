@@ -1,6 +1,7 @@
 # Analysis-of-Digital-Music-Store
 
-# SQL project to analyze online music store data. 
+SQL project to analyze online music store data. 
+
 This project is to examine and analyze the dataset with SQL and help the music store understand its business growth by answering following questions.
 
 1. Who is the senior most employee based on job title?
