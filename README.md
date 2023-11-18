@@ -1,7 +1,7 @@
 # Analysis-of-Digital-Music-Store
 
 SQL project to analyze online music store data
-This project is to examine and analyze the dataset with SQL and help the store understand its business growth by answering following questions.
+This project is to examine and analyze the dataset with SQL and help the music store understand its business growth by answering following questions.
 
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
@@ -12,3 +12,10 @@ This project is to examine and analyze the dataset with SQL and help the store u
 7. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands
 8. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
 
+Tools used to create the project:
+-> Postfresql
+-> Pgadmin4
+
+Schema- Music Store Database:
+![image](https://github.com/kajalgoyal707/Analysis-of-Digital-Music-Store/assets/79365011/aa48c55b-e7b1-4622-b8a0-5c5a3c8cb12a)
+Music Store Database attached in the repository.
